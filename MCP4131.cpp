@@ -1,6 +1,4 @@
 #include <wiringPi.h>
-#include <iostream>
-#include <stdint.h>
 
 class MCP4131
 {
